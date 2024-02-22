@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Tutorial.Event.Store.Example", "Microservices.Tutorial.Event.Store.Example\Microservices.Tutorial.Event.Store.Example.csproj", "{7CD7412C-640E-4B42-92BA-DA8F697CFB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD7412C-640E-4B42-92BA-DA8F697CFB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD7412C-640E-4B42-92BA-DA8F697CFB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD7412C-640E-4B42-92BA-DA8F697CFB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD7412C-640E-4B42-92BA-DA8F697CFB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856E8E14-401B-491F-9BCA-BE8B967E38C0}
+	EndGlobalSection
+EndGlobal
